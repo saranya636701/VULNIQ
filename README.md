@@ -372,7 +372,7 @@ A value above zero indicates that the cluster is above the overall dataset avera
 
 ## CISA Known Exploited Vulnerability Analysis
 
-CISA KEV status provides an important external security indicator for interpreting the clusters.
+CISA KEV status is included as one of the clustering features and also helps characterize the resulting vulnerability profiles.
 
 The final K-Means model contains **1,653 CISA Known Exploited Vulnerabilities**.
 
@@ -389,7 +389,7 @@ A particularly important result is:
 
 > **Cluster 0 contains only 1.76% of the total vulnerability population but contains 58.08% of all CISA Known Exploited Vulnerabilities.**
 
-This indicates that the clustering process identified a small vulnerability group with disproportionately high known-exploitation relevance.
+This shows that the final segmentation contains a small vulnerability group with a disproportionately high concentration of known exploited vulnerabilities.
 
 ---
 
