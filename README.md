@@ -535,15 +535,15 @@ VULNIQ/
 │       └── cve_kmeans_k4_enriched.csv
 │
 ├── src/
-│   ├── datapreprocessing.py
-│   ├── 2_feature_engineering.py
-│   ├── 3_feature_selection.py
-│   ├── 4_encoding_scaling.py
-│   ├── 1_kmeans.py
-│   ├── 2_agglomerative.py
-│   ├── 3_dbscan.py
-│   ├── 4_cluster_enrichment.py
-│   └── 5_final_visualization.py
+│   ├── 01_data_preprocessing.py
+│   ├── 02_feature_engineering.py
+│   ├── 03_feature_selection.py
+│   ├── 04_encoding_scaling.py
+│   ├── 05_kmeans_clustering.py
+│   ├── 06_agglomerative_clustering.py
+│   ├── 07_dbscan_clustering.py
+│   ├── 08_threat_intelligence_enrichment.py
+│   └── 09_results_visualization.py
 │
 ├── outputs/
 │   ├── charts/
