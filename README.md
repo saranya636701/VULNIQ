@@ -558,9 +558,9 @@ VULNIQ/
 
 ## Installation
 
-### 1. Clone the repository
+### 1. Download the Project
 
-Clone the repository and move into the VULNIQ project directory.
+Download or clone this repository and move into the VULNIQ project directory.
 
 ### 2. Create a virtual environment
 
