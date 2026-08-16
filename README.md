@@ -83,7 +83,7 @@ The following information is extracted:
 - Vendor
 - Product
 
-The `cve_corpus.csv` file is approximately **296 MB** and is therefore not included directly in this GitHub repository.
+The raw datasets are not included directly in this GitHub repository due to their file sizes.
 
 After downloading the datasets from Kaggle, place them in:
 
@@ -614,8 +614,6 @@ data/raw/
 ```
 
 ---
-
-## Running the Project
 
 ## Running the Project
 
