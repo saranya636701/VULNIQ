@@ -35,6 +35,26 @@ The resulting groups can support activities such as:
 
 ---
 
+## Results at a Glance
+
+The final K-Means model identified four distinct vulnerability profiles across **346,232 CVEs**.
+
+### Cluster Distribution
+
+![Vulnerability Cluster Distribution](assets/vulniq_cluster_distribution.png)
+
+### CISA Known Exploited Vulnerability Distribution
+
+![CISA KEV Distribution](assets/vulniq_kev_distribution.png)
+
+> **Key finding:** Cluster 0 represents only **1.76%** of the vulnerability population but contains **58.08%** of all CISA Known Exploited Vulnerabilities in the dataset.
+
+### Visual Project Overview
+
+[View the VULNIQ Project Overview PDF](assets/VULNIQ_Project_Overview.pdf)
+
+---
+
 ## Dataset Source
 
 The datasets used in this project were obtained from the Kaggle **CVE, CISA KEV & EPSS Datasets** collection.
